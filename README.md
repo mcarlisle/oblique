@@ -8,3 +8,6 @@ oblique.txt cobbled together from
 code help from 
 * https://stackoverflow.com/questions/42014195/rendering-text-with-multiple-lines-in-pygame/42015712
 * https://www.pygame.org/wiki/tutorials (of course)
+
+font from 
+* https://github.com/nomatteus/oblique-strategies/
